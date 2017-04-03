@@ -1,4 +1,4 @@
-# Binary-Matroids
+# Bounding the Sizes of Binary Matroids with Respect to Rank
 
 ## Authors
 Kyle Booker,
