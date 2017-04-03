@@ -31,10 +31,9 @@ Calculates the total number of matroids not containing a K5 minor of a particula
 Calculates and prints the circumference (Defined to be the largest circuit in a matroid) over all matroids of a particular rank. Located in Circumference.sobj.
 
 ### triangle_number(matroids)
-Calculutes and prints the triangle numbers of all matroids to the console. Located in triangle_number.sobj.
+Calculates and prints the triangle numbers of all matroids to the console. Located in triangle_number.sobj.
 
 ## Instructions
 
-TODO
-
+Open and run the script of your choice in Sage. It is not reccomended to use the Sage Data Cloud, as the computations could take very long for certain matroids. To change input values, users will need to modify the source directly.
 
