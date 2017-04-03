@@ -3,7 +3,7 @@
 ## Authors
 Kyle Booker,
 Rachael Lobay,
-Cory Langille.
+Cory Langille,
 and Sean McGuinness
 
 ## Introduction
