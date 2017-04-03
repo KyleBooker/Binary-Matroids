@@ -27,10 +27,10 @@ The matroids are stored in a large dictionary of lists using keys of the form (r
 ### all_matroids(field, maxsize, maxrank):
 Calculates the total number of matroids not containing a K5 minor of a particular rank, size and field. For binary matroids input a field size of "GF(2)"; K5 can be replaced with other minors. Saves the output to the file "test.sobj". Located in All_matroids.sobj.
 
-### Circumference
-Calculates the circumference (Defined to be the largest circuit in a matroid) over all matroids of a particular rank. Located in Circumference.sobj.
+### Circumference(matroids)
+Calculates and prints the circumference (Defined to be the largest circuit in a matroid) over all matroids of a particular rank. Located in Circumference.sobj.
 
-### triangle_number(matroidS)
+### triangle_number(matroids)
 Calculutes and prints the triangle numbers of all matroids to the console. Located in triangle_number.sobj.
 
 ## Instructions
